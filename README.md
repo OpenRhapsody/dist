@@ -30,7 +30,11 @@ Public CDN distribution for Adrop Video Ad Player.
 
 ## Version
 
-Current version: 0.0.1
+Current version: 0.0.2
+
+### Changelog
+- v0.0.2: CSS optimization with css-minimizer-webpack-plugin
+- v0.0.1: Initial release
 
 ## License
 
